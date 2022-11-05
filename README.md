@@ -1,5 +1,7 @@
 # gnit
 
+All of this is RIDICULOUSLY open source. Nobody in this repo owns anything here exclusively - ever.
+
 G-nit's
 N-ot
 T-witter 
